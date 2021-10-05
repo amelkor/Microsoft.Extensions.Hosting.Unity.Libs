@@ -1,0 +1,25 @@
+{
+  "name": "com.blacksmallriver.hosting.libs",
+  "author": "Aleksei Melkor (https://docs.microsoft.com/ru-ru/dotnet/core/extensions/dependency-injection-usage)",
+  "displayName": "Microsoft.Extensions.Hosting for Unity",
+  "description": "Microsoft.Extensions.Hosting adopted for Unity",
+  "unity": "2021.2",
+  "release": "0b1",
+  "version": "1.0.0",
+  "keywords": [
+    "unity",
+    "System.Buffers.dll",
+    "System.Memory.dll",
+    "System.Runtime.CompilerServices.Unsafe.dll"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amelkor/Microsoft.Extensions.Hosting.Unity.Libs.git"
+  },
+  "type": "library",
+  "bugs": {
+    "url": "https://github.com/amelkor/Microsoft.Extensions.Hosting.Unity/issues"
+  },
+  "homepage": "https://github.com/amelkor/Microsoft.Extensions.Hosting.Unity.Libs#readme",
+  "license": "MIT"
+}
